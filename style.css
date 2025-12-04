@@ -1,0 +1,89 @@
+html{
+    border: solid black;
+  margin: 0;
+  background-color: gray;
+  font: 1.2em sans-serif;
+align-items: center;
+}
+body{
+    size: 200vh;
+      border: 2px solid black;
+  margin: 0;
+  background-color: orange;
+  font-weight: bold;
+}
+head{
+border: 2px solid black;
+  margin: 0;
+  background-color: yellow;
+}
+nav{
+    border: 2px solid black;
+  margin: 0;
+  background-color: pink;
+}
+main{
+    border: 2px solid black;
+  margin: 0;
+  background-color: green;
+  align-items: center;
+}
+section{
+    border: 2px solid black;
+  margin: 0;
+  background-color: yellow;
+  align-items: center;
+}
+img{
+    border: 2px solid black;
+  margin: 0;
+  background-color: lightblue;
+  align-items: left;
+}
+p1{
+  
+    border: 2px solid black;
+  margin: 0;
+  background-color: lightblue;
+  align-items: right;
+}
+p2{
+  border: 2px solid black;
+  margin: 0;
+  background-color: lightblue;
+  align-items: right;
+}
+form{
+      border: 2px solid black;
+  margin: 0;
+  background-color: palevioletred;
+  align-items: center;
+}
+footer{ 
+    border: 2px solid black;
+  margin: 0;
+  background-color:violet;
+  align-items: center;
+}
+div {
+  border: solid 3px;
+  padding: 1em;
+  max-width: 100%;
+}
+
+.item {
+  border: 2px solid rgb(95 97 110);
+  
+  padding: 20px;
+  width:180vh
+}
+
+.container {
+  border: 2px solid rgb(75 70 74);
+  border-radius: 0.5em;
+  font: 1.2em sans-serif;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
